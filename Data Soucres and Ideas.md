@@ -8,13 +8,14 @@
 3. **[Remote Work and Mental Health](https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health)**  
    This dataset focuses on the mental health impacts of remote work, with data on employees' experiences, stress levels, and productivity while working remotely.
    
+   
    **Project Idea**: Examine how different types of remote work (full-time, part-time, hybrid) correlate with mental health outcomes. You could also explore whether certain job sectors experience more stress while working remotely.
 
-4. **[Global Suicide Statistics](https://www.kaggle.com/datasets/arpitsinghaiml/global-suicide-statistics)**  
+5. **[Global Suicide Statistics](https://www.kaggle.com/datasets/arpitsinghaiml/global-suicide-statistics)**  
    This dataset includes global suicide statistics, with data by country, gender, age group, and year.  
    **Project Idea**: Analyze the trends in suicide rates over time and by country, investigating the relationship between socioeconomic factors (e.g., income, education level) and suicide rates.
 
-5. **[Video Game Reviews and Ratings](https://www.kaggle.com/datasets/jahnavipaliwal/video-game-reviews-and-ratings)**  
+6. **[Video Game Reviews and Ratings](https://www.kaggle.com/datasets/jahnavipaliwal/video-game-reviews-and-ratings)**  
    This dataset contains information about video game reviews, including ratings, titles, genres, and platforms.
    
    **Project Idea**: Conduct sentiment analysis on reviews and correlate it with ratings to understand how positive and negative feedback influences game popularity. Additionally, explore how game genre or platform affects player satisfaction.
