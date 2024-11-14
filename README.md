@@ -16,10 +16,14 @@ Hello! I'm **Seha Park**, currently a junior pursuing a major in **Mathematics a
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3E9B8D?style=flat-square&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+
 
 - **Programming Languages**: Python, R, SQL
 - **Data Visualization Tools**: Plotly, ggplot2
-- **Data Analysis Libraries**: Pandas, NumPy, Scikit-learn
+- **Data Analysis Libraries**: Pandas, NumPy
 - **Google Data Analytics certificate**: Python, spreadsheets, SQL, Tableau, R
 
 ## Relevant Course Works
