@@ -1,4 +1,4 @@
-#Data Soucres and Project ideas
+## Data Soucres and Project ideas
 
 1. **[Netflix Data Visualization](https://www.kaggle.com/code/joshuaswords/netflix-data-visualization)**  
    This dataset contains information about Netflix's content, including details about movies and TV shows like title, genre, release year, ratings, and more.  
