@@ -18,6 +18,7 @@ Hello! I'm **Seha Park**, currently a junior pursuing a major in **Mathematics a
 ![Plotly](https://img.shields.io/badge/Plotly-3E9B8D?style=flat-square&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-0F9D58?style=flat-square&logo=google&logoColor=white)
 
 
 
@@ -33,7 +34,11 @@ Hello! I'm **Seha Park**, currently a junior pursuing a major in **Mathematics a
 - **Others**: General Physics I, General Chemistry I, Principles of Microeconomics, Intro to Econometrics
 
 ## Thanks for Visiting!
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+
+
 Feel free to explore my repositories, contribute to my projects, or reach out if you'd like to collaborate or chat about data, health, and tech. I’m always open to new opportunities!
 
-**Contact me** via [email](mailto:parks2@whitman.edu) or [LinkedIn](https://linkedin.com/in/SehaPark).
+**Contact me** via [email](mailto:parks2@whitman.edu) or [LinkedIn](https://linkedin.com/in/SehaPark) or [github](https://github.com/sehapark1/sehapark1.github.io).
 
