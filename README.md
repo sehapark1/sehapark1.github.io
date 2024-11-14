@@ -1,4 +1,5 @@
-# Seha Park
+# Seha Park ![Hi there!](https://img.shields.io/badge/Hi%20there!-%20%F0%9F%91%8B%20I'm%20Seha%20Park-%23FF69B4?style=flat-square&logo=github&logoColor=white)
+
 
 ## About Me
 Hello! I'm **Seha Park**, currently a junior pursuing a major in **Mathematics and Statistics**. I am passionate about data analysis, public health research, and the ways in which technology and statistics intersect to improve community well-being. I am particularly interested in exploring the impact of digital trends on public health and understanding how data can guide informed decision-making.
