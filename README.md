@@ -1,8 +1,37 @@
 # Seha Park
-Here's a link to my [linkedin profile](https://www.linkedin.com/in/seha-park-b081152b1/)
 
 ## Table of Contents
-- [About](#-about)
-- [Certification](#-certification)
-- [Documentation](#-documentation)
-- [Contacts](#%EF%B8%8F-contacts)
+- [About Me](#-about-me)
+- [Interests and Research Areas](#-interests-and-research-areas)
+- [Skills and Certification](#-skills-and-certification)
+- [Relevant Course Works](#-relevant-course-works)
+- [Contacts](-contacts)
+
+## About Me
+Hello! I'm **Seha Park**, currently a junior pursuing a major in **Mathematics and Statistics**. I am passionate about data analysis, public health research, and the ways in which technology and statistics intersect to improve community well-being. I am particularly interested in exploring the impact of digital trends on public health and understanding how data can guide informed decision-making.
+
+## Interests and Research Areas
+- **Public Health and Technology**: Examining how digital platforms influence mental and physical health.
+- **Data Analysis**: Utilizing statistical methods and visualization tools to find meaningful insights.
+- **Gaming Industry Trends**: Studying the effects of gaming on user behavior and wellness.
+- **Search Engine Optimization (SEO)**: Understanding how data-driven strategies optimize online visibility.
+- **Future Career Goals**: I aspire to work in gaming companies that handle user data to analyze player behavior and provide data-driven insights for game updates and enhancements.
+
+## Skills and Certification
+- **Programming Languages**: Python, R, SQL
+- **Data Visualization Tools**: Plotly, ggplot2
+- **Data Analysis Libraries**: Pandas, NumPy, Scikit-learn
+- **Google Data Analytics certificate**: Python, spreadsheets, SQL, Tableau, R
+
+## Relevant Course Works
+- **Math**: Calculus 1,2, and 3, Linear Algebra, Intro to Higher Mathematics
+- **Computer Science**: Computational Prob Solving, Computer Systems Fundamentals, Intro to Data Science
+- **Statistics**: Statistics With Applications, Statistical Modeling, Design & Analysis, Probability Theory
+- **Others**: General Physics I, General Chemistry I, Principles of Microeconomics, Intro to Econometrics
+
+  
+## Contact
+I am always open to discussing new projects, research collaborations, or opportunities for further study.
+- **Email**: parks2@whitman.edu
+- **GitHub**: [github.com/SehaPark](https://github.com/SehaPark)
+- **LinkedIn**: [linkedin.com/in/SehaPark](https://linkedin.com/in/SehaPark
