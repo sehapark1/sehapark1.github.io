@@ -30,7 +30,12 @@ Hello! I'm **Seha Park**, currently a junior pursuing a major in **Mathematics a
 
   
 ## Contact
-I am always open to discussing new projects, research collaborations, or opportunities for further study.
 - **Email**: parks2@whitman.edu
 - **GitHub**: [github.com/SehaPark](https://github.com/SehaPark)
 - **LinkedIn**: [linkedin.com/in/SehaPark](https://linkedin.com/in/SehaPark
+
+- ## Thanks for Visiting!
+Feel free to explore my repositories, contribute to my projects, or reach out if you'd like to collaborate or chat about data, health, and tech. I’m always open to new opportunities!
+
+**Contact me** via [email](mailto:parks2@whitman.edu) or [LinkedIn](https://linkedin.com/in/SehaPark).
+
