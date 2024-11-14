@@ -8,7 +8,6 @@
 3. **[Remote Work and Mental Health](https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health)**  
    This dataset focuses on the mental health impacts of remote work, with data on employees' experiences, stress levels, and productivity while working remotely.
    
-   
    **Project Idea**: Examine how different types of remote work (full-time, part-time, hybrid) correlate with mental health outcomes. You could also explore whether certain job sectors experience more stress while working remotely.
 
 5. **[Global Suicide Statistics](https://www.kaggle.com/datasets/arpitsinghaiml/global-suicide-statistics)**  
