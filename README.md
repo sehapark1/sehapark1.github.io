@@ -10,6 +10,13 @@ Hello! I'm **Seha Park**, currently a junior pursuing a major in **Mathematics a
 - **Future Career Goals**: I aspire to work in gaming companies that handle user data to analyze player behavior and provide data-driven insights for game updates and enhancements.
 
 ## Skills and Certification
+## Skills and Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3E9B8D?style=flat-square&logo=plotly&logoColor=white)
+
 - **Programming Languages**: Python, R, SQL
 - **Data Visualization Tools**: Plotly, ggplot2
 - **Data Analysis Libraries**: Pandas, NumPy, Scikit-learn
