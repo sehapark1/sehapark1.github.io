@@ -1,12 +1,5 @@
 # Seha Park
 
-## Table of Contents
-- [About Me](#-about-me)
-- [Interests and Research Areas](#-interests-and-research-areas)
-- [Skills and Certification](#-skills-and-certification)
-- [Relevant Course Works](#-relevant-course-works)
-- [Contacts](-contacts)
-
 ## About Me
 Hello! I'm **Seha Park**, currently a junior pursuing a major in **Mathematics and Statistics**. I am passionate about data analysis, public health research, and the ways in which technology and statistics intersect to improve community well-being. I am particularly interested in exploring the impact of digital trends on public health and understanding how data can guide informed decision-making.
 
