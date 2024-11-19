@@ -42,3 +42,8 @@ Feel free to explore my repositories, contribute to my projects, or reach out if
 
 **Contact me** via [email](mailto:parks2@whitman.edu) or [LinkedIn](https://linkedin.com/in/SehaPark) or [github](https://github.com/sehapark1/sehapark1.github.io).
 
+
+
+
+%include_relative map_visualization.html%
+
