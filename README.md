@@ -59,8 +59,11 @@ Hello! I'm **Seha Park**, currently a junior pursuing a major in **Mathematics a
    **Project Idea**: Analyze the performance of individual players and teams across different stages of the tournament, exploring factors that contribute to success, such as player position or champion choice.
 
 
-## Where' Schuller?
+## Where's Schuller?
 
+{% include_relative folder/map_visualization(1).html %}
+
+{% include_relative folder/map1_visualization.html %}
 
 {% include_relative folder/barmap_visualization.html %}
 
