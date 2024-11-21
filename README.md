@@ -70,8 +70,6 @@ Hello! I'm **Seha Park**, currently a junior pursuing a major in **Mathematics a
 
 
 
-
-
 ## Thanks for Visiting!
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
