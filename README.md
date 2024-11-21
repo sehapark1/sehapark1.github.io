@@ -33,17 +33,6 @@ Hello! I'm **Seha Park**, currently a junior pursuing a major in **Mathematics a
 - **Statistics**: Statistics With Applications, Statistical Modeling, Design & Analysis, Probability Theory
 - **Others**: General Physics I, General Chemistry I, Principles of Microeconomics, Intro to Econometrics
 
-## Thanks for Visiting!
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-
-
-Feel free to explore my repositories, contribute to my projects, or reach out if you'd like to collaborate or chat about data, health, and tech. I’m always open to new opportunities!
-
-**Contact me** via [email](mailto:parks2@whitman.edu) or [LinkedIn](https://linkedin.com/in/SehaPark) or [github](https://github.com/sehapark1/sehapark1.github.io).
-
-
-
 ## Data Sources and Project Ideas
 
 1. **[Netflix Data Visualization](https://www.kaggle.com/code/joshuaswords/netflix-data-visualization)**  
@@ -75,5 +64,14 @@ Feel free to explore my repositories, contribute to my projects, or reach out if
 
 (% include_relative map_visualization.html %)
 
+
+## Thanks for Visiting!
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+
+
+Feel free to explore my repositories, contribute to my projects, or reach out if you'd like to collaborate or chat about data, health, and tech. I’m always open to new opportunities!
+
+**Contact me** via [email](mailto:parks2@whitman.edu) or [LinkedIn](https://linkedin.com/in/SehaPark) or [github](https://github.com/sehapark1/sehapark1.github.io).
 
 
