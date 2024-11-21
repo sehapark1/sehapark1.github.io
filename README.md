@@ -69,17 +69,6 @@ Hello! I'm **Seha Park**, currently a junior pursuing a major in **Mathematics a
 
 
 
-{% include_relative folder/map1_visualization.html %}
-
-
-
-
-
-
-
-{% include_relative folder/barmap_visualization.html %}
-
-
 
 
 
