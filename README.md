@@ -61,21 +61,6 @@ Hello! I'm **Seha Park**, currently a junior pursuing a major in **Mathematics a
 
 ## Where' Schuller?
 
-(% include_relativefolder/map_visualization(1).html %)
-
-
-
-
-
-
-
-
-
-(% include_relativefolder/map1_visualization.html %)
-
-
-
-
 
 
 
