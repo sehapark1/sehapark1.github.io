@@ -75,6 +75,6 @@ Hello! I'm **Seha Park**, currently a junior pursuing a major in **Mathematics a
 
 Feel free to explore my repositories, contribute to my projects, or reach out if you'd like to collaborate or chat about data, health, and tech. I’m always open to new opportunities!
 
-**Contact me** via [email](mailto:parks2@whitman.edu) or [LinkedIn]([https://linkedin.com/in/SehaPark](https://www.linkedin.com/in/seha-park-b081152b1/)) or [github](https://github.com/sehapark1/sehapark1.github.io).
+**Contact me** via [email](mailto:parks2@whitman.edu) or [LinkedIn](https://www.linkedin.com/in/seha-park-b081152b1/) or [github](https://github.com/sehapark1/sehapark1.github.io).
 
 
