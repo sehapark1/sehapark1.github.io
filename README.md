@@ -7,7 +7,6 @@ Hello! I'm **Seha Park**, currently a junior pursuing a major in **Mathematics a
 ## Interests and Research Areas
 - **Public Health and Technology**: Examining how digital platforms influence mental and physical health.
 - **Gaming Industry Trends**: Studying the effects of gaming on user behavior and wellness.
-- **Search Engine Optimization (SEO)**: Understanding how data-driven strategies optimize online visibility.
 - **Future Career Goals**: I aspire to work in gaming companies that handle user data to analyze player behavior and provide data-driven insights for game updates and enhancements.
 
 ## Skills and Certification
